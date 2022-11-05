@@ -17,7 +17,7 @@
           
             "facebookarchive/models",
           
-            "apache/incubator-mxnet",
+            "apache/mxnet",
           
             "deeplearning4j/deeplearning4j",
           
@@ -151,7 +151,9 @@
           
             "ansible/ansible-lint",
           
-            "dotenv-linter/dotenv-linter"
+            "dotenv-linter/dotenv-linter",
+          
+            "florianschanda/miss_hit"
           
         ],
         "created_by": "holman",
@@ -167,7 +169,7 @@
           
             "squizlabs/PHP_CodeSniffer",
           
-            "FriendsOfPHP/PHP-CS-Fixer",
+            "PHP-CS-Fixer/PHP-CS-Fixer",
           
             "psecio/parse",
           
@@ -1171,6 +1173,40 @@
     {
         "items": [
           
+            "spatie/laravel-permission",
+          
+            "laravel-mix/laravel-mix",
+          
+            "filamentphp/filament",
+          
+            "bavix/laravel-wallet",
+          
+            "mpociot/teamwork",
+          
+            "hammerstonedev/fast-paginate",
+          
+            "opcodesio/log-viewer",
+          
+            "devtical/laravel-helpers",
+          
+            "thephpleague/flysystem-aws-s3-v3",
+          
+            "getsentry/sentry-laravel",
+          
+            "romanzipp/Laravel-Queue-Monitor"
+          
+        ],
+        "created_by": "ezhasyafaat",
+        "name": "laravel-libraries",
+        "display_name": "Laravel Libraries",
+        "image": 
+          null,
+        
+        "content": "<p>Collection of useful libraries for Laravel applications.</p>\n"
+      },
+    {
+        "items": [
+          
             "30-seconds/30-seconds-of-code",
           
             "railsgirls/railsgirls.github.io",
@@ -2021,11 +2057,21 @@
           
             "BaritoLog",
           
-            "odpf",
-          
             "xitorch/xitorch",
           
-            "mathdroid/covid-19-api"
+            "mathdroid/covid-19-api",
+          
+            "Kristories/awesome-guidelines",
+          
+            "stisla/stisla",
+          
+            "farizdotid/DAFTAR-API-LOKAL-INDONESIA",
+          
+            "refactory-id/bootstrap-markdown",
+          
+            "zuramai/mazer",
+          
+            "mdmsoft/yii2-admin"
           
         ],
         "created_by": "mabdh",
@@ -2073,7 +2119,9 @@
           
             "jadijadi/linuxandlife",
           
-            "KambizAsadzadeh/Project-Template"
+            "KambizAsadzadeh/Project-Template",
+          
+            "HyperDbg/HyperDbg"
           
         ],
         "created_by": "Javad",
@@ -2437,7 +2485,7 @@
           
             "passwall/passwall-web",
           
-            "pankod/refine",
+            "refinedev/refine",
           
             "pankod/superplate",
           
@@ -2471,7 +2519,7 @@
           
             "trailofbits/algo",
           
-            "uglide/RedisDesktopManager",
+            "RedisInsight/RedisDesktopManager",
           
             "trekhleb/homemade-machine-learning",
           
@@ -3955,7 +4003,7 @@
           
             "pybuilder/pybuilder",
           
-            "klaussinani/signale",
+            "klaudiosinani/signale",
           
             "gitpod-io/gitpod",
           
@@ -5522,6 +5570,29 @@
       },
     
       {
+        "topic_name": "astro",
+        "created_by": "Fred Schott and Nate Moore",
+        "display_name": "Astro",
+        "github_url": "https://github.com/withastro/astro",
+        "logo": 
+          "https://explore-feed.github.com/topics/astro/astro.png",
+        
+        "released": "August 09, 2022",
+        "short_description": "Astro is a web framework for building fast, content-focused websites. Performance powered by Astro's next-gen island architecture.",
+        "url": "https://github.com/topics/astro",
+        "wikipedia_url": null,
+        "related": [
+          
+        ],
+        "aliases": [
+          
+            "astro-build"
+          
+        ],
+        "content": "<p>Astro is a static site builder that delivers lightning-fast performance with a modern developer experience. 100% Static HTML, No JS: Astro renders your entire page to static HTML, removing all JavaScript from your final build by default.</p>\n"
+      },
+    
+      {
         "topic_name": "atom",
         "created_by": "GitHub",
         "display_name": "Atom",
@@ -5609,6 +5680,27 @@
           
         ],
         "content": "<p>Authentication is the process of determining whether someone or something is, in fact, who or what it says it is. Authentication technology provides access control for systems by checking to see if a user’s credentials match the credentials in a database of authorized users or in a data authentication server.</p>\n"
+      },
+    
+      {
+        "topic_name": "automation",
+        "created_by": null,
+        "display_name": "Automation",
+        "github_url": null,
+        "logo": 
+          null,
+        
+        "released": null,
+        "short_description": "The technique of making an apparatus, a process, or a system operate automatically.",
+        "url": "https://github.com/topics/automation",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Automation",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Automation describes a wide range of technologies that reduce human intervention in processes, namely by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. Automation has been achieved by various means including mechanical, hydraulic, pneumatic, electrical, electronic devices, and computers, usually in combination. Complicated systems, such as modern factories, airplanes, and ships typically use combinations of all of these techniques. The benefit of automation includes labor savings, reducing waste, savings in electricity costs, savings in material costs, and improvements to quality, accuracy, and precision.</p>\n"
       },
     
       {
@@ -6687,8 +6779,6 @@
         ],
         "aliases": [
           
-            "site-reliability-engineering"
-          
         ],
         "content": "<p>Chaos engineering is the discipline of experimenting on a software system in production in order to build confidence in the system’s capability to withstand turbulent and unexpected conditions. Chaos engineering is a disciplined approach to identifying failures before they become outages</p>\n"
       },
@@ -7675,6 +7765,27 @@
           
         ],
         "content": "<p>A cryptocurrency is a digital currency that only has value dependent on those who back it. For security, cryptocurrencies rely on blockchaining: a database organized in such a way that records are kept secure through peer-to-peer networks. Each record is kept within a block, and each block holds a timestamp and link to the block before it. The first cryptocurrency was Bitcoin, implemented in 2009 by Satoshi Nakamoto.</p>\n"
+      },
+    
+      {
+        "topic_name": "cryptography",
+        "created_by": null,
+        "display_name": "Cryptography",
+        "github_url": null,
+        "logo": 
+          "https://explore-feed.github.com/topics/cryptography/cryptography.png",
+        
+        "released": null,
+        "short_description": "Cryptography is the practice and study of techniques for secure communication in the presence of adversarial behavior.",
+        "url": "https://github.com/topics/cryptography",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cryptography",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Cryptography, or cryptology is the practice and study of techniques for secure communication in the presence of adversarial behavior. More generally, cryptography is about constructing and analyzing protocols that prevent third parties or the public from reading private messages.[</p>\n"
       },
     
       {
@@ -8742,6 +8853,27 @@
           
         ],
         "content": "<p>Microsoft Edge is a cross-platform web browser created and developed by Microsoft. First released for Windows 10 in 2015, for Android and iOS in 2017, for macOS in 2019, and for Linux in 2020, can replace Internet Explorer on Windows 7, Windows Server 2008 R2 and later versions.</p>\n"
+      },
+    
+      {
+        "topic_name": "education",
+        "created_by": null,
+        "display_name": "Education",
+        "github_url": null,
+        "logo": 
+          null,
+        
+        "released": null,
+        "short_description": "The act or process of imparting or acquiring particular knowledge or skills, as for a profession.",
+        "url": "https://github.com/topics/education",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Education",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Education is a purposeful activity directed at achieving certain aims, such as transmitting knowledge or fostering skills and character traits.</p>\n"
       },
     
       {
@@ -10060,6 +10192,27 @@
           
         ],
         "content": "<p>F# (pronounced “F sharp”) is a cross-platform, open source, functional programming language for .NET. It also includes object-oriented and imperative programming.</p>\n"
+      },
+    
+      {
+        "topic_name": "functional-programming",
+        "created_by": null,
+        "display_name": "Functional programming",
+        "github_url": null,
+        "logo": 
+          null,
+        
+        "released": null,
+        "short_description": "Functional programming is a programming paradigm where programs are constructed by applying and composing functions.",
+        "url": "https://github.com/topics/functional-programming",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Functional_programming",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program.</p>\n"
       },
     
       {
@@ -12797,31 +12950,6 @@
       },
     
       {
-        "topic_name": "kentico-kontent",
-        "created_by": "Ilesh Mistry",
-        "display_name": "Kentico Kontent",
-        "github_url": "https://github.com/kentico",
-        "logo": 
-          "https://explore-feed.github.com/topics/kentico-kontent/kentico-kontent.png",
-        
-        "released": 2016,
-        "short_description": "Kentico Kontent provides an environment for easy content collaboration and features a flexible API to power modern websites/apps.",
-        "url": "https://github.com/topics/kentico-kontent",
-        "wikipedia_url": null,
-        "related": [
-          
-            "cms, content-delivery"
-          
-        ],
-        "aliases": [
-          
-            "kentico-cloud"
-          
-        ],
-        "content": "<p>Kentico Kontent is a Content as a Service system that can replace a legacy CMS. It offers a unified environment for content collaboration, flexible APIs for content management and delivery, and content delivery network and SDKs for building websites and apps with a modern development stack.</p>\n"
-      },
-    
-      {
         "topic_name": "keras",
         "created_by": "François Chollet",
         "display_name": "Keras",
@@ -12957,6 +13085,31 @@
           
         ],
         "content": "<p>In programming Koans are exercises, puzzles, or problems - typically presented as a suite of unit tests - intended to get developers up to speed with the idioms and features of a programming language.</p>\n"
+      },
+    
+      {
+        "topic_name": "kontent-ai",
+        "created_by": "Ilesh Mistry",
+        "display_name": "Kontent.ai",
+        "github_url": "https://github.com/kontent-ai",
+        "logo": 
+          "https://explore-feed.github.com/topics/kontent-ai/kontent-ai.png",
+        
+        "released": 2022,
+        "short_description": "Kontent.ai provides an environment for easy content collaboration and features a flexible API to power modern websites/apps.",
+        "url": "https://github.com/topics/kontent-ai",
+        "wikipedia_url": null,
+        "related": [
+          
+            "cms, content-delivery"
+          
+        ],
+        "aliases": [
+          
+            "kontent"
+          
+        ],
+        "content": "<p>Kontent.ai is a Content as a Service system that can replace a legacy CMS. It offers a unified environment for content collaboration, flexible APIs for content management and delivery, and content delivery network and SDKs for building websites and apps with a modern development stack.</p>\n"
       },
     
       {
@@ -13615,21 +13768,23 @@
         "topic_name": "mastodon",
         "created_by": "Eugen Rochko",
         "display_name": "Mastodon",
-        "github_url": "https://github.com/tootsuite",
+        "github_url": "https://github.com/mastodon",
         "logo": 
           "https://explore-feed.github.com/topics/mastodon/mastodon.png",
         
         "released": "October 5, 2016",
-        "short_description": "Mastodon is a free, decentralized, open-source microblogging network.",
+        "short_description": "Mastodon is a free, decentralized, open source microblogging network.",
         "url": "https://github.com/topics/mastodon",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Mastodon_(software)",
         "related": [
+          
+            "activitypub, fediverse, microblog, social-network, webfinger"
           
         ],
         "aliases": [
           
         ],
-        "content": "<p>Mastodon is a large social media network built as a decentralized federation of independently operated servers. It has a strong focus on privacy and anti-abuse features. Mastodon’s server-side technology is Ruby on Rails, and its front end is written in JavaScript (React.js and Redux). It implements both the <a href=\"https://www.w3.org/community/ostatus/\">OStatus</a> and <a href=\"https://activitypub.rocks/\">ActivityPub</a> protocols and is thus interoperable with other social networks. <a href=\"https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md\">There are several client applications for different platforms available.</a></p>\n"
+        "content": "<p>Mastodon is a free and open source microblogging network built as a decentralized federation of independently-operated servers. The server-side technology is Ruby on Rails, and the front end is written in JavaScript (React.js and Redux). It implements the <a href=\"https://activitypub.rocks/\">ActivityPub</a> and <a href=\"https://webfinger.net/\">WebFinger</a> protocols for interoperability with other social networks. <a href=\"https://joinmastodon.org/apps\">There are several client applications for different platforms available.</a>.</p>\n"
       },
     
       {
@@ -13935,6 +14090,29 @@
           
         ],
         "content": "<p>Medium is an American online publishing platform owned by A Medium Corporation. The platform is an example of social journalism, having a hybrid collection of amateur and professional people and publications, or exclusive blogs or publishers on Medium, and is regularly regarded as a blog host.</p>\n"
+      },
+    
+      {
+        "topic_name": "megengine",
+        "created_by": "Megvii",
+        "display_name": "MegEngine",
+        "github_url": "https://github.com/MegEngine/MegEngine",
+        "logo": 
+          "https://explore-feed.github.com/topics/megengine/megengine.png",
+        
+        "released": null,
+        "short_description": "MegEngine is a fast, scalable and easy-to-use deep learning framework, with auto-differentiation.",
+        "url": "https://github.com/topics/megengine",
+        "wikipedia_url": null,
+        "related": [
+          
+        ],
+        "aliases": [
+          
+            "mge"
+          
+        ],
+        "content": "<p>MegEngine is a fast, scalable and easy-to-use deep learning framework, with auto-differentiation.</p>\n\n<h4 id=\"how-to-contact-us\">How to Contact Us</h4>\n\n<ul>\n  <li>Issue: <a href=\"https://github.com/MegEngine/MegEngine/issues\">github.com/MegEngine/MegEngine/issues</a></li>\n  <li>Email: <a href=\"mailto:megengine-support@megvii.com\">megengine-support@megvii.com</a></li>\n  <li>Forum: <a href=\"https://discuss.megengine.org.cn\">discuss.megengine.org.cn</a></li>\n  <li>QQ Group: 1029741705</li>\n</ul>\n\n<h4 id=\"resources\">Resources</h4>\n\n<ul>\n  <li><a href=\"https://github.com/MegEngine/Documentation\">Documentation</a></li>\n  <li><a href=\"https://github.com/MegEngine/awesome-megengine\">Awesome MegEngine</a></li>\n</ul>\n\n<p>MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架，具备训练推理一体、全平台高效支持和动静结合的训练能力 3 大核心优势，可帮助企业与开发者大幅节省产品从实验室原型到工业部署的流程，真正实现小时级的转化能力。</p>\n\n<h4 id=\"联系我们\">联系我们</h4>\n\n<ul>\n  <li>问题: <a href=\"https://github.com/MegEngine/MegEngine/issues\">github.com/MegEngine/MegEngine/issues</a></li>\n  <li>邮箱: <a href=\"mailto:megengine-support@megvii.com\">megengine-support@megvii.com</a></li>\n  <li>论坛: <a href=\"https://discuss.megengine.org.cn\">discuss.megengine.org.cn</a></li>\n  <li>QQ: 1029741705</li>\n</ul>\n\n<h4 id=\"资源\">资源</h4>\n\n<ul>\n  <li><a href=\"https://github.com/MegEngine/Documentation\">文档</a></li>\n  <li><a href=\"https://github.com/MegEngine/awesome-megengine\">Awesome MegEngine</a></li>\n</ul>\n"
       },
     
       {
@@ -19292,6 +19470,29 @@
       },
     
       {
+        "topic_name": "sre",
+        "created_by": null,
+        "display_name": "SRE",
+        "github_url": null,
+        "logo": 
+          null,
+        
+        "released": null,
+        "short_description": "Site reliability engineering (SRE) is a software engineering approach to IT operations.",
+        "url": "https://github.com/topics/sre",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Site_reliability_engineering",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+            "site-reliability-engineering"
+          
+        ],
+        "content": "<p>Site reliability engineering (SRE) is a set of principles and practices that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalable and highly reliable software systems. Site reliability engineering is closely related to DevOps, a set of practices that combine software development and IT operations, and SRE has also been described as a specific implementation of DevOps.</p>\n"
+      },
+    
+      {
         "topic_name": "ss13",
         "created_by": "Exadv1",
         "display_name": "Space Station 13",
@@ -20047,6 +20248,31 @@
           
         ],
         "content": "<p>TBOX is a glib-like cross-platform C library that is simple yet powerful. It focuses on making C development easier and provides many modules, so that any developer can quickly pick it up and enjoy the productivity boost when developing in the C language.</p>\n\n"
+      },
+    
+      {
+        "topic_name": "teamfight-tactics",
+        "created_by": "Riot Games",
+        "display_name": "Teamfight Tactics",
+        "github_url": null,
+        "logo": 
+          "https://explore-feed.github.com/topics/teamfight-tactics/teamfight-tactics.png",
+        
+        "released": "June 26, 2019",
+        "short_description": "Teamfight Tactics is an auto battler game developed and published by Riot Games.",
+        "url": "https://github.com/topics/teamfight-tactics",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Teamfight_Tactics",
+        "related": [
+          
+            "riot-games, league-of-legends, league-of-legends-wild-rift, legends-of-runeterra, valorant"
+          
+        ],
+        "aliases": [
+          
+            "teamfighttactics"
+          
+        ],
+        "content": "<p>Teamfight Tactics (TFT) is an auto battler game developed and published by Riot Games. The game is a spinoff of League of Legends and is based on Dota Auto Chess, where players compete online against seven other opponents by building a team to be the last one standing.</p>\n\n<h3 id=\"community--support\">Community &amp; Support</h3>\n<ul>\n  <li><a href=\"https://developer.riotgames.com/apis\">APIs</a></li>\n  <li><a href=\"https://developer.riotgames.com/docs/tft\">Documentation</a></li>\n  <li><a href=\"https://discord.com/invite/riotgamesdevrel\">Riot Games Third-Party Developer Community on Discord</a></li>\n</ul>\n"
       },
     
       {
